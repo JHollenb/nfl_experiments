@@ -1,0 +1,166 @@
+RANK,PLAYER,POS,VBD,VORP,VOLS,ADP,VS ADP,Position,PositionTier
+1,Christian McCaffrey (SF),RB1,455,275,180,1.0,-,RB,1.0
+2,Breece Hall (NYJ),RB2,357,226,131,4.0,+ 2,RB,2.0
+3,Bijan Robinson (ATL),RB3,345,220,125,5.0,+ 2,RB,2.0
+18,De'Von Achane (MIA),RB14,213,154,59,24.0,+ 6,RB,3.0
+17,James Cook (BUF),RB13,215,155,60,29.0,+ 12,RB,3.0
+14,Derrick Henry (BAL),RB12,219,157,62,17.0,+ 3,RB,3.0
+13,Isiah Pacheco (KC),RB11,223,159,64,19.0,+ 6,RB,3.0
+11,Travis Etienne Jr. (JAC),RB9,229,162,67,18.0,+ 7,RB,3.0
+12,Rachaad White (TB),RB10,227,161,66,34.0,+ 22,RB,3.0
+9,Kyren Williams (LAR),RB7,245,170,75,15.0,+ 6,RB,3.0
+8,Jahmyr Gibbs (DET),RB6,251,173,78,13.0,+ 5,RB,3.0
+7,Jonathan Taylor (IND),RB5,271,183,88,11.0,+ 4,RB,3.0
+5,Saquon Barkley (PHI),RB4,283,189,94,9.0,+ 4,RB,3.0
+10,Alvin Kamara (NO),RB8,235,165,70,40.0,+ 30,RB,3.0
+36,Najee Harris (PIT),RB23,127,111,16,69.0,+ 33,RB,4.0
+42,Jaylen Warren (PIT),RB27,113,104,9,85.0,+ 43,RB,4.0
+41,Raheem Mostert (MIA),RB26,113,104,9,74.0,+ 33,RB,4.0
+40,D'Andre Swift (CHI),RB25,115,105,10,58.0,+ 18,RB,4.0
+39,Javonte Williams (DEN),RB24,117,106,11,83.0,+ 44,RB,4.0
+34,James Conner (ARI),RB22,133,114,19,53.0,+ 19,RB,4.0
+33,David Montgomery (DET),RB21,133,114,19,60.0,+ 27,RB,4.0
+32,Zamir White (LV),RB20,135,115,20,67.0,+ 35,RB,4.0
+31,Rhamondre Stevenson (NE),RB19,145,120,25,65.0,+ 34,RB,4.0
+26,Aaron Jones (MIN),RB18,161,128,33,56.0,+ 30,RB,4.0
+23,Kenneth Walker III (SEA),RB17,173,134,39,43.0,+ 20,RB,4.0
+21,Joe Mixon (HOU),RB16,199,147,52,38.0,+ 17,RB,4.0
+20,Josh Jacobs (GB),RB15,205,150,55,28.0,+ 8,RB,4.0
+92,Rico Dowdle (DAL),RB45,46,46,0,146.0,+ 54,RB,5.0
+93,Tyler Allgeier (ATL),RB46,46,46,0,152.0,+ 59,RB,5.0
+99,Jaleel McLaughlin (DEN),RB47,40,40,0,162.0,+ 63,RB,5.0
+101,Blake Corum (LAR),RB48,39,39,0,120.0,+ 19,RB,5.0
+102,Trey Benson (ARI),RB49,37,37,0,123.0,+ 21,RB,5.0
+103,Khalil Herbert (CHI),RB50,36,36,0,200.0,+ 97,RB,5.0
+134,Alexander Mattison (LV),RB53,10,10,0,244.0,+ 110,RB,5.0
+130,Ray Davis (BUF),RB52,12,12,0,207.0,+ 77,RB,5.0
+91,Ty Chandler (MIN),RB44,48,48,0,154.0,+ 63,RB,5.0
+137,Jamaal Williams (NO),RB54,9,9,0,263.0,+ 126,RB,5.0
+140,MarShawn Lloyd (GB),RB55,8,8,0,174.0,+ 34,RB,5.0
+143,Clyde Edwards-Helaire (KC),RB56,6,6,0,209.0,+ 66,RB,5.0
+125,Bucky Irving (TB),RB51,14,14,0,202.0,+ 77,RB,5.0
+88,Chuba Hubbard (CAR),RB43,49,49,0,138.0,+ 50,RB,5.0
+55,Devin Singletary (NYG),RB29,95,95,0,92.0,+ 37,RB,5.0
+84,Antonio Gibson (NE),RB41,53,53,0,165.0,+ 81,RB,5.0
+82,J.K. Dobbins (LAC),RB40,53,53,0,130.0,+ 48,RB,5.0
+78,Jonathon Brooks (CAR),RB39,60,60,0,89.0,+ 11,RB,5.0
+75,Nick Chubb (CLE),RB38,64,64,0,93.0,+ 18,RB,5.0
+73,Jerome Ford (CLE),RB37,69,69,0,117.0,+ 44,RB,5.0
+71,Gus Edwards (LAC),RB36,73,73,0,110.0,+ 39,RB,5.0
+65,Ezekiel Elliott (DAL),RB35,80,80,0,106.0,+ 41,RB,5.0
+62,Chase Brown (CIN),RB34,87,87,0,112.0,+ 50,RB,5.0
+61,Zack Moss (CIN),RB33,88,88,0,90.0,+ 29,RB,5.0
+58,Tyjae Spears (TEN),RB32,92,92,0,96.0,+ 38,RB,5.0
+57,Austin Ekeler (WAS),RB31,94,94,0,86.0,+ 29,RB,5.0
+56,Brian Robinson Jr. (WAS),RB30,94,94,0,87.0,+ 31,RB,5.0
+149,Tyrone Tracy Jr. (NYG),RB57,4,4,0,211.0,+ 62,RB,5.0
+49,Tony Pollard (TEN),RB28,105,100,5,79.0,+ 30,RB,5.0
+86,Zach Charbonnet (SEA),RB42,50,50,0,140.0,+ 54,RB,5.0
+150,Braelon Allen (NYJ),RB58,4,4,0,201.0,+ 51,RB,5.0
+173,Miles Sanders (CAR),RB59,0,0,0,296.0,+ 123,RB,
+179,Kendre Miller (NO),RB60,0,0,0,190.0,+ 11,RB,
+196,Roschon Johnson (CHI),RB61,0,0,0,243.0,+ 47,RB,
+214,Jaylen Wright (MIA),RB62,0,0,0,163.0,-51,RB,
+217,Samaje Perine (FA),RB63,0,0,0,275.0,+ 58,RB,
+218,Kenneth Gainwell (PHI),RB64,0,0,0,215.0,-3,RB,
+219,Tank Bigsby (JAC),RB65,0,0,0,247.0,+ 28,RB,
+222,D'Onta Foreman (FA),RB66,0,0,0,272.0,+ 50,RB,
+227,Kimani Vidal (LAC),RB67,0,0,0,227.0,-,RB,
+230,Keaton Mitchell (BAL),RB68,0,0,0,265.0,+ 35,RB,
+231,Dameon Pierce (HOU),RB69,0,0,0,232.0,+ 1,RB,
+239,Justice Hill (BAL),RB70,0,0,0,248.0,+ 9,RB,
+242,Dalvin Cook (FA),RB71,0,0,0,264.0,+ 22,RB,
+249,Audric Estime (DEN),RB72,0,0,0,258.0,+ 9,RB,
+250,Emari Demercado (ARI),RB73,0,0,0,563.0,+ 313,RB,
+257,Eric Gray (NYG),RB74,0,0,0,280.0,+ 23,RB,
+260,Ty Johnson (BUF),RB75,0,0,0,520.0,+ 260,RB,
+265,Chris Rodriguez Jr. (WAS),RB76,0,0,0,604.0,+ 339,RB,
+267,Trey Sermon (IND),RB77,0,0,0,350.0,+ 83,RB,
+268,Will Shipley (PHI),RB78,0,0,0,259.0,-9,RB,
+269,Carson Steele (KC),RB79,0,0,0,254.0,-15,RB,
+272,Isaiah Davis (NYJ),RB80,0,0,0,860.0,+ 588,RB,
+273,Dylan Laube (LV),RB81,0,0,0,354.0,+ 81,RB,
+274,Jordan Mason (SF),RB82,0,0,0,288.0,+ 14,RB,
+275,Cordarrelle Patterson (PIT),RB83,0,0,0,290.0,+ 15,RB,
+278,Kyle Juszczyk (SF),RB84,0,0,0,292.0,+ 14,RB,
+280,Royce Freeman (FA),RB85,0,0,0,644.0,+ 364,RB,
+282,Evan Hull (FA),RB86,0,0,0,924.0,+ 642,RB,
+283,Isaac Guerendo (SF),RB87,0,0,0,337.0,+ 54,RB,
+286,Deuce Vaughn (DAL),RB88,0,0,0,273.0,-13,RB,
+287,Jase McClellan (ATL),RB89,0,0,0,619.0,+ 332,RB,
+289,Ameer Abdullah (LV),RB90,0,0,0,515.0,+ 226,RB,
+290,Kendall Milton (PHI),RB91,0,0,0,,,RB,
+292,Deneric Prince (FA),RB92,0,0,0,423.0,+ 131,RB,
+294,Michael Carter (FA),RB93,0,0,0,549.0,+ 255,RB,
+295,Rasheen Ali (BAL),RB94,0,0,0,361.0,+ 66,RB,
+299,Nyheim Hines (CLE),RB95,0,0,0,646.0,+ 347,RB,
+300,Cam Akers (HOU),RB96,0,0,0,274.0,-26,RB,
+303,DeWayne McBride (FA),RB97,0,0,0,358.0,+ 55,RB,
+304,Jawhar Jordan (FA),RB98,0,0,0,858.0,+ 554,RB,
+307,Blake Watson (DEN),RB99,0,0,0,794.0,+ 487,RB,
+308,Ronnie Rivers (LAR),RB100,0,0,0,679.0,+ 371,RB,
+309,D'Ernest Johnson (JAC),RB101,0,0,0,735.0,+ 426,RB,
+311,Kevin Harris (FA),RB102,0,0,0,386.0,+ 75,RB,
+312,Jeremy McNichols (WAS),RB103,0,0,0,865.0,+ 553,RB,
+313,Craig Reynolds (DET),RB104,0,0,0,492.0,+ 179,RB,
+314,Isaiah Spiller (FA),RB105,0,0,0,797.0,+ 483,RB,
+315,Dillon Johnson (FA),RB106,0,0,0,,,RB,
+316,Hunter Luepke (DAL),RB107,0,0,0,641.0,+ 325,RB,
+318,Dare Ogunbowale (HOU),RB108,0,0,0,539.0,+ 221,RB,
+319,Pierre Strong Jr. (CLE),RB109,0,0,0,577.0,+ 258,RB,
+320,Austin Jones (WAS),RB110,0,0,0,811.0,+ 491,RB,
+322,Trayveon Williams (CIN),RB111,0,0,0,586.0,+ 264,RB,
+325,Jordan Mims (NO),RB112,0,0,0,837.0,+ 512,RB,
+326,Kenny McIntosh (SEA),RB113,0,0,0,562.0,+ 236,RB,
+329,Tyler Goodson (IND),RB114,0,0,0,671.0,+ 342,RB,
+330,Nick Bawden (FA),RB115,0,0,0,,,RB,
+331,JaMycal Hasty (NE),RB116,0,0,0,751.0,+ 420,RB,
+332,Jeff Wilson Jr. (MIA),RB117,0,0,0,444.0,+ 112,RB,
+333,Emanuel Wilson (GB),RB118,0,0,0,567.0,+ 234,RB,
+336,Matt Breida (FA),RB119,0,0,0,566.0,+ 230,RB,
+338,Julius Chestnut (TEN),RB120,0,0,0,809.0,+ 471,RB,
+340,Jaret Patterson (LAC),RB121,0,0,0,780.0,+ 440,RB,
+341,Emani Bailey (FA),RB122,0,0,0,781.0,+ 440,RB,
+344,Salvon Ahmed (FA),RB123,0,0,0,662.0,+ 318,RB,
+346,Joshua Kelley (FA),RB124,0,0,0,893.0,+ 547,RB,
+347,Carlos Washington Jr. (FA),RB125,0,0,0,932.0,+ 585,RB,
+349,Alec Ingold (MIA),RB126,0,0,0,491.0,+ 142,RB,
+350,Boston Scott (FA),RB127,0,0,0,527.0,+ 177,RB,
+351,Israel Abanikanda (NYJ),RB128,0,0,0,463.0,+ 112,RB,
+352,Cody Schrader (SF),RB129,0,0,0,805.0,+ 453,RB,
+355,Sean Tucker (TB),RB130,0,0,0,614.0,+ 259,RB,
+356,Dante Miller (NYG),RB131,0,0,0,611.0,+ 255,RB,
+357,Raheem Blackshear (CAR),RB132,0,0,0,555.0,+ 198,RB,
+360,Myles Gaskin (FA),RB133,0,0,0,596.0,+ 236,RB,
+362,DeeJay Dallas (ARI),RB134,0,0,0,587.0,+ 225,RB,
+363,Chris Brooks (FA),RB135,0,0,0,616.0,+ 253,RB,
+364,La'Mical Perine (FA),RB136,0,0,0,749.0,+ 385,RB,
+365,Michael Burton (FA),RB137,0,0,0,565.0,+ 200,RB,
+366,Reggie Gilliam (BUF),RB138,0,0,0,663.0,+ 297,RB,
+367,Kene Nwangwu (FA),RB139,0,0,0,472.0,+ 105,RB,
+368,Avery Williams (ATL),RB140,0,0,0,899.0,+ 531,RB,
+369,Darrynton Evans (BUF),RB141,0,0,0,627.0,+ 258,RB,
+370,Travis Homer (CHI),RB142,0,0,0,543.0,+ 173,RB,
+373,Adam Prentice (NO),RB143,0,0,0,776.0,+ 403,RB,
+374,Sione Vaki (DET),RB144,0,0,0,483.0,+ 109,RB,
+375,Malik Davis (FA),RB145,0,0,0,552.0,+ 177,RB,
+376,Keaontay Ingram (FA),RB146,0,0,0,379.0,+ 3,RB,
+378,Keilan Robinson (JAC),RB147,0,0,0,859.0,+ 481,RB,
+379,Jake Funk (FA),RB148,0,0,0,484.0,+ 105,RB,
+380,Elijah Dotson (FA),RB149,0,0,0,851.0,+ 471,RB,
+381,Snoop Conner (FA),RB150,0,0,0,560.0,+ 179,RB,
+382,J.J. Taylor (FA),RB151,0,0,0,314.0,-68,RB,
+383,Jermar Jefferson (FA),RB152,0,0,0,326.0,-57,RB,
+384,Patrick Ricard (BAL),RB153,0,0,0,488.0,+ 104,RB,
+385,Zonovan Knight (FA),RB154,0,0,0,,,RB,
+387,Hassan Haskins (FA),RB155,0,0,0,,,RB,
+388,Zach Evans (LAR),RB156,0,0,0,602.0,+ 214,RB,
+389,Spencer Brown (FA),RB157,0,0,0,758.0,+ 369,RB,
+390,Khari Blasingame (FA),RB158,0,0,0,,,RB,
+391,Patrick Taylor Jr. (SF),RB159,0,0,0,573.0,+ 182,RB,
+392,John Kelly Jr. (BAL),RB160,0,0,0,867.0,+ 475,RB,
+393,C.J. Ham (MIN),RB161,0,0,0,451.0,+ 58,RB,
+394,Jashaun Corbin (FA),RB162,0,0,0,440.0,+ 46,RB,
+397,Mike Boone (FA),RB163,0,0,0,712.0,+ 315,RB,
+398,Tyrion Davis-Price (PHI),RB164,0,0,0,637.0,+ 239,RB,
+399,Brandon Bolden (FA),RB165,0,0,0,642.0,+ 243,RB,
